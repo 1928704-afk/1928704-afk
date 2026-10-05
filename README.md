@@ -9,6 +9,9 @@
   <a href="https://github.com/1928704-afk">
     <img src="https://img.shields.io/badge/GitHub-1928704--afk-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <a href="https://github.com/kwonjjinho">
+    <img src="https://img.shields.io/badge/GitHub%20(Sub)-kwonjjinho-4078C0?style=flat-square&logo=github&logoColor=white"/>
+  </a>
   <!-- 포트폴리오 사이트 완성 후 아래 주석을 해제해 주세요 -->
   <!-- <a href="포트폴리오링크" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
 </p>
