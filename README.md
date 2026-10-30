@@ -66,7 +66,6 @@
 | **고구마 키우기** | 게이미피케이션 요소를 접목한 인터랙티브 가상 육성 웹 서비스 | Spring Boot, React, MySQL | [Repo](https://github.com/1928704-afk/goguma) |
 | **미니겜즈** | 다양한 캐주얼 웹 미니게임을 제공하는 통합 게임 플랫폼 | Spring Boot, React | [Repo](https://github.com/1928704-afk) |
 
-> 💡 *지식그래프, 오픈갤러리, 미니겜즈 레포가 생성되거나 공개되면 해당 링크(`https://github.com/1928704-afk/프로젝트명`)로 변경해 주시면 됩니다.*
 
 ---
 
