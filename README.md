@@ -19,7 +19,7 @@
 ### 💡 About Me
 
 * ⚙️ **견고한 백엔드 아키텍처:** Java와 Spring Boot 기반으로 유지보수성과 확장성을 고려한 RESTful API를 설계합니다.
-* 🗄️ **데이터 중심의 고민:** MySQL과 MongoDB를 활용한 데이터 모델링 및 효율적인 데이터 처리(CQRS,샤딩)에 관심이 많습니다.
+* 🗄️ **데이터 중심의 고민:** MySQL과 MongoDB를 활용한 데이터 모델링 및 Redis 기반 캐싱을 통한 데이터 처리 효율화(CQRS, 샤딩)에 관심이 많습니다.
 * ☁️ **인프라 & 배포:** Docker와 AWS를 활용한 컨테이너 기반 서비스 배포 및 GitHub Actions CI/CD 자동화 환경을 구축합니다.
 * 🔄 **MSA & 이벤트 기반 아키텍처:** Eureka 기반 서비스 디스커버리와 Kafka를 활용한 비동기 이벤트 처리 구조를 학습하고 적용합니다.
 * 🤝 **원활한 풀스택 협업:** React와 Next.js 개발 경험을 바탕으로 프론트엔드의 동작 흐름을 이해하고 클라이언트 친화적인 API를 제공합니다.
@@ -38,11 +38,12 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 </p>
 
-#### Database
+#### Database & Cache
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
 #### Frontend
